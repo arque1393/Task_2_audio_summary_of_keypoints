@@ -34,7 +34,7 @@ GitHub :  https://github.com/coqui-ai/TTS.git
 
 - Try to install again and Installation became **Successful**
 
-# How do I Tru to install TensorflowTTS
+
 
 
 # How do I install ESPNet in my system
@@ -68,3 +68,23 @@ GitHub :  https://github.com/coqui-ai/TTS.git
 - Try To install again and became **Successful**
 
 
+# How do I Tru to install TensorflowTTS
+
+- I use WSL Ubuntu 22.04.3 LTS
+- Using Conda environment with Python = 3.9
+- Previous configuration is exactly same
+- Install command using pip and from Github directly
+    ```shell
+    pip install TensorflowTTS
+    ```
+    ```
+    git clone https://github.com/TensorSpeech/TensorFlowTTS.git
+    cd TensorFlowTTS
+    pip install .
+    ```
+    
+- Error Message 
+    ```
+    ```
+
+- Try To install again but It does not  work
