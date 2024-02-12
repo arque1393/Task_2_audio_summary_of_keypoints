@@ -1,3 +1,5 @@
 .*/
 TensorFlowTTS/
 tensorflow-tts/
+.tts/
+TTS/
