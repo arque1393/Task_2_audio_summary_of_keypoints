@@ -3,3 +3,4 @@ TensorFlowTTS/
 tensorflow-tts/
 .tts/
 TTS/
+__pycache__/
