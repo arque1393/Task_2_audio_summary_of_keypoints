@@ -1,6 +1,6 @@
 ### Overview 
 This Repository Contains a Notebook where I have experiment with various Text To speech Models. 
-- My all work presented in Note.ipynb and note file
+- My all work presented in [Note.ipynb](https://github.com/arque1393/Task_2_audio_summary_of_keypoints/blob/master/Note.ipynb) and note file
 ### Models and library that I have Explored 
 1. Library : Coqui TTS <br>
     + **Model** : "tts_models/multilingual/multi-dataset/xtts_v2" <br>
@@ -55,5 +55,5 @@ This Repository Contains a Notebook where I have experiment with various Text To
 - Create the interface using gradio library of python in WSL system by integrating ESPNet 'espnet/kan-bayashi_ljspeech_vits' model as a tts tools
 
 ### Installation Solution Log 
-I have Created a Installation_solution log in this repository to log my approach to install 
+I have Created a [Installation_solution log](https://github.com/arque1393/Task_2_audio_summary_of_keypoints/blob/master/Installation_solution.md) in this repository to log my approach to install 
 **Coqui TTS** and **ESPNet** library 
