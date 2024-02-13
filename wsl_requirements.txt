@@ -1,5 +1,6 @@
 # Wsl environment  With Anaconda 3 
-# Python Version 3.9 # packages in environment at /home/aritrarc1/anaconda3/envs/TF_TTS:
+# Python Version 3.9 
+# packages in environment at /home/aritrarc1/anaconda3/envs/TF_TTS:
 #
 # Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                        main  
