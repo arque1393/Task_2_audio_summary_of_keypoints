@@ -12,6 +12,9 @@ This Repository Contains a Notebook where I have experiment with various Text To
 3. ESPNet
     + **Model** :  'espnet/kan-bayashi_ljspeech_vits'
     + **Remark** : generate beautiful speech in very minimum time.
+4. SpeechBrain 
+    + **Model** : speechbrain/tts-fastspeech2-ljspeech
+    + **Remark** : Voice are Quite Mechanical Not like original human voice 
 4. Transformers, Datasets 
     + **Model** : "microsoft/speecht5_tts"
     + **Datasets** : "Matthijs/cmu-arctic-xvectors"
@@ -19,6 +22,9 @@ This Repository Contains a Notebook where I have experiment with various Text To
 5. Transformers, Datasets 
     + **Model** : "suno/bark"
     + **Remark** : Very Good speech generation but all text are not processed properly.
+6. Transformers, Datasets 
+    + **Model**: facebook/mms-tts-eng 
+    + **Remark** : Very Good speech generation. Accents are human like.
 6. gtts 
     - Remark : Word to Word Text to speech
 7. Google Cloud Text To Speech 

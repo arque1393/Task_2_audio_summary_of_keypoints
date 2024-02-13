@@ -4,3 +4,6 @@ tensorflow-tts/
 .tts/
 TTS/
 __pycache__/
+tmpdir_vocoder/
+tmpdir_tts/
+pretrained_models/
