@@ -53,9 +53,6 @@ options = ["espnet/kan-bayashi_ljspeech_vits", "facebook/mms-tts-eng"]
 # Create a dropdown input
 dropdown_input = gr.Dropdown(choices=options, label="Select an option")
 
-# Define a simple function to display the selected option
-def display_option(option):
-    return f"You selected: {option}"
 
 # Create the Gradio interface
 

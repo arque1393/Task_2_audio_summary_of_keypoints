@@ -1,0 +1,13 @@
+TTS
+espnet
+speechbrain
+TensorflowTTS
+torch
+torchaudio
+scipy
+soundfile 
+ipykernel 
+ipython
+fastapi
+pydantic
+
