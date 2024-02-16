@@ -9,3 +9,5 @@ ipython
 fastapi
 pydantic
 gradio
+transformers
+datasets
