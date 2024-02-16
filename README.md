@@ -1,6 +1,8 @@
 ### Overview 
 This Repository Contains a Notebook where I have experiment with various Text To speech Models. 
 - My all work presented in [Note.ipynb](https://github.com/arque1393/Task_2_audio_summary_of_keypoints/blob/master/Note.ipynb) and note file
+- Video Description Link
+    - https://1drv.ms/u/s!Aj2Nbw_0FL8Hia4tQTFEtReMegDGSw?e=VcsWG1
 ### Models and library that I have Explored 
 1. Library : Coqui TTS <br>
     + **Model** : "tts_models/multilingual/multi-dataset/xtts_v2" <br>
